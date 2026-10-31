@@ -2,7 +2,7 @@ EKONOMIKOLLEN
 
 En konsolapplikation utvecklad i C# och .NET som en projektuppgift i kursen Programmering i C#.NET vid Mittuniversitetet.
 
-Programmet används för att hålla rewda på inkomster och utgifter och ger användaren en enkel överblick över sin ekonomi.
+Programmet används för att hålla reda på inkomster och utgifter och ger användaren en enkel överblick över sin ekonomi.
 
 #Funktioner 
 
